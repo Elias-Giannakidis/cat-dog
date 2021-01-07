@@ -8,7 +8,7 @@ test the model with validation data.
 Bellow are the links of tutorials.
 
 # Tutorials.
-https://www.youtube.com/watch?v=gT4F3HGYXf4 
+https://www.youtube.com/watch?v=gT4F3HGYXf4     
 https://www.youtube.com/watch?v=Ge65ukmJTzQ
 
 # Data.
